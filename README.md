@@ -1,6 +1,6 @@
 ## About
 
-<!-- Write about yourself here. -->
+An amateur Modder, Computer nerd ever since. I post things I do here, Nothing special.
 
 ## Projects
 
