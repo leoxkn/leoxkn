@@ -1,6 +1,7 @@
 ## About
 
-An amateur Modder, Computer nerd ever since. I post things I do here, Nothing special.
+An amateur Modder and computer nerd.
+I post things I do here.
 
 ## Projects
 
